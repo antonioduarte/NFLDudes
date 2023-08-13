@@ -1,6 +1,4 @@
-# NFL Dudes
-
-Grupo de Fantasy NFL que compete de forma saudável por diversão desde 2017."
+Grupo de Fantasy NFL que compete de forma saudável por diversão desde 2017.
 
 [Temporada 2022](season-2022.md)
 
