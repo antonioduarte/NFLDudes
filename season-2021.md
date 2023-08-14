@@ -52,8 +52,8 @@ Formação:
 
 **Gold**:
 
-![Standings Gold 2021](https://antonioduarte.github.io/nfldudes/images/2021-results-gold.png)
+![Standings Gold 2021](images/2021-results-gold.png)
 
 **Silver**:
 
-![Standings Silver 2021](https://antonioduarte.github.io/nfldudes/images/2021-results-silver.png)
+![Standings Silver 2021](images/2021-results-silver.png)

@@ -52,8 +52,8 @@ Formação:
 
 **Gold**:
 
-![Standings Gold 2022](https://antonioduarte.github.io/nfldudes/images/2022-results-gold.png)
+![Standings Gold 2022](images/2022-results-gold.png)
 
 **Silver**:
 
-![Standings Silver 2022](https://antonioduarte.github.io/nfldudes/images/2022-results-silver.png)
+![Standings Silver 2022](images/2022-results-silver.png)

@@ -50,8 +50,8 @@ Formação:
 
 **Gold**:
 
-![Standings Gold 2020](https://antonioduarte.github.io/nfldudes/images/2020-results-gold.png)
+![Standings Gold 2020](images/2020-results-gold.png)
 
 **Silver**:
 
-![Standings Silver 2020](https://antonioduarte.github.io/nfldudes/images/2020-results-silver.png)
+![Standings Silver 2020](images/2020-results-silver.png)

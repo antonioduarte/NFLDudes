@@ -30,4 +30,4 @@ Formação:
 
 #### Resultados
 
-![Standings 2017](https://antonioduarte.github.io/nfldudes/images/standings-2017.png)
+![Standings 2017](images/standings-2017.png)

@@ -32,4 +32,4 @@ Formação:
 
 Nesse ano o novato Igor surpreendeu, levando a vitória mesmo com o último pick do 1o round do draft:
 
-![Standings 2018](https://antonioduarte.github.io/nfldudes/images/standings-2018.png)
+![Standings 2018](images/standings-2018.png)

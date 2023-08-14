@@ -34,4 +34,4 @@ Formação:
 
 Além da performance do Gobbi saindo de último para vencedor em relação ao ano anterior, esse ano também ficou marcado pela ascensão expressiva do Leks com 4 vitória seguidas antes de ser derrotado na semi-final.
 
-![Standings 2019](https://antonioduarte.github.io/nfldudes/images/standings-2019.png)
+![Standings 2019](images/standings-2019.png)
