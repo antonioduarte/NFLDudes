@@ -1,5 +1,3 @@
-# NFL Dudes
-
 ## Temporada 2018
 
 Em 2018 a NFL Dudes cresceu para 14 times, aumentando o desafio em relação a seleção de jogadores.

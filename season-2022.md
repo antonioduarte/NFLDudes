@@ -1,5 +1,3 @@
-# NFL Dudes
-
 ## Temporada 2022
 
 Em 2022 a NFL Dudes contou novamente com duas Leagues de 10 pessoas (Gold e Silver), totalizando 20 times. Uma League foi destinada aos primeiros 10 colocados de 2021, a segunda League contou com os demais jogadores de 2021, além de novos membros.
@@ -66,4 +64,10 @@ Ex-membros:
 
 #### Resultados
 
-TBD
+**Gold**:
+
+![Standings Gold 2022](https://antonioduarte.github.io/nfldudes/images/2022-results-gold.png)
+
+**Silver**:
+
+![Standings Silver 2022](https://antonioduarte.github.io/nfldudes/images/2022-results-silver.png)

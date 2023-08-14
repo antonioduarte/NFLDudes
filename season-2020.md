@@ -1,5 +1,3 @@
-# NFL Dudes
-
 ## Temporada 2020
 
 Em 2020 a NFL Dudes contou com duas Leagues de 10 pessoas (Gold e Silver), totalizando 20 times. Uma League foi destinada aos primeiros 10 colocados de 2019, a segunda League contou com os demais jogadores de 2019, além de novos membros.
@@ -62,4 +60,10 @@ Ex-membros:
 
 #### Resultados
 
-![Standings 2020](https://antonioduarte.github.io/nfldudes/images/standings-2020.png)
+**Gold**:
+
+![Standings Gold 2020](https://antonioduarte.github.io/nfldudes/images/2020-results-gold.png)
+
+**Silver**:
+
+![Standings Silver 2020](https://antonioduarte.github.io/nfldudes/images/2020-results-silver.png)

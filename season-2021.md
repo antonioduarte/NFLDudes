@@ -1,5 +1,3 @@
-# NFL Dudes
-
 ## Temporada 2021
 
 Em 2021 a NFL Dudes contou novamente com duas Leagues de 10 pessoas (Gold e Silver), totalizando 20 times. Uma League foi destinada aos primeiros 10 colocados de 2020, a segunda League contou com os demais jogadores de 2020, além de novos membros.
@@ -66,4 +64,10 @@ Ex-membros:
 
 #### Resultados
 
-TBD
+**Gold**:
+
+![Standings Gold 2021](https://antonioduarte.github.io/nfldudes/images/2021-results-gold.png)
+
+**Silver**:
+
+![Standings Silver 2021](https://antonioduarte.github.io/nfldudes/images/2021-results-silver.png)

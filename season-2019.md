@@ -1,5 +1,3 @@
-# NFL Dudes
-
 ## Temporada 2019
 
 2019 marcou pelo aumento da profundidade da League, dessa vez com 16 times. Devido ao aumento dos times foi reduzido o número de jogadores por time, com apenas 4 jogadores no banco. Os playoffs também foram diferentes em relação a 2018, com 3 semanas (15, 16 e 17) e 8 times.

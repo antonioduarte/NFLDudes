@@ -1,5 +1,3 @@
-# NFL Dudes
-
 ## Temporada 2017
 
 Em 2017 a NFL Dudes iniciou com 10 times, sendo todos iniciantes no Fantasy NFL.
