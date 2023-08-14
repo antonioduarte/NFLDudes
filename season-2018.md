@@ -13,29 +13,20 @@ Formação:
 - Wide Receiver / Running Back (W/R) - 1
 - Bench (BN) - 6
 
-Ordem do Draft:
+#### Draft 
 
-| Pos | Nome     | Time              |
-| --- | -------- | ----------------- |
-| 1.  | Vinicius | Vjusto            |
-| 2.  | Thalles  | FLN koalas        |
-| 3.  | Pedro    | Los Caneludos     |
-| 4.  | Daniel   | Green Bay Leiters |
-| 5.  | Arthur   | Leks              |
-| 6.  | Bruno    | Billy Boys        |
-| 7.  | Henrique | Salvaro           |
-| 8.  | Antonio  | Toners            |
-| 9.  | Rodrigo  | Mamas and Papas   |
-| 10. | Luana    | Macarena          |
-
-Novos membros:
-
-| Pos | Nome     | Time               |
-| --- | -------- | ------------------ |
-| 11. | Daniel   | Floripa Hikers     |
-| 12. | Leonardo | Gobbi Game Winners |
-| 13. | Endy     | Endy Gamers        |
-| 14. | Igor     | Floripa Manatees   |
+| Pos | Time              |
+| --- | ----------------- |
+| 1.  | Vjusto            |
+| 2.  | FLN koalas        |
+| 3.  | Los Caneludos     |
+| 4.  | Green Bay Leiters |
+| 5.  | Leks              |
+| 6.  | Billy Boys        |
+| 7.  | Salvaro           |
+| 8.  | Toners            |
+| 9.  | Mamas and Papas   |
+| 10. | Macarena          |
 
 #### Resultados
 

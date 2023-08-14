@@ -16,51 +16,37 @@ Formação:
 - Bench (BN) - 4
 - Reserve (RES) - 3
 
-Ordem do Draft:
+#### Draft 
 
 **Gold**:
 
-| Pos | Nome     | Time                                  |
-| --- | -------- | ------------------------------------- |
-| 1.  | Leonardo | Gobbi Game Winners                    |
-| 2.  | Daniel   | Floripa Hikers                        |
-| 3.  | Thalles  | FLN koalas                            |
-| 4.  | Thiago   | Thiago Alfas (antigo Joinville Alfas) |
-| 5.  | Luana    | Macarena                              |
-| 6.  | Marco    | Marcones (antigo Mlenzi)              |
-| 7.  | Augusto  | Gutaro                                |
-| 8.  | Bruno    | Totti Islanders                       |
-| 9.  | Vinicius | Vjusto                                |
-| 10. | Bruno    | Billy Boys                            |
+| Pos | Time                                  |
+| --- | ------------------------------------- |
+| 1.  | Gobbi Game Winners                    |
+| 2.  | Florida Hikers                        |
+| 3.  | FLN Koalas                            |
+| 4.  | Thiago Alfas                          |
+| 5.  | Macarena                              |
+| 6.  | Marcones                              |
+| 7.  | Gutaro                                |    
+| 8.  | Totti Islanders                       |
+| 9.  | Vjusto                                |
+| 10. | Billy Boys                            |
 
 **Silver**:
 
-| Pos | Nome     | Time                            |
-| --- | -------- | ------------------------------- |
-| 1.  | Gustavo  | GTE Beers                       |
-| 2.  | Antonio  | Toners                          |
-| 3.  | Daniel   | Green Bay Leiters               |
-| 4.  | Carlos   | Ximbahaze                       |
-| 5.  | Arthur   | Leks Golden Lions (antigo Leks) |
-| 6.  | Endy     | Endy Legends                    |
-| 7.  | Henrique | Salvaro Heinekens               |
-| 8.  | Ramon    | Obesidade footbal               |
-| 9.  | Igor     | Floripa Manatees                |
-| 10. | Arthur   | Badarants                       |
-
-Novos membros:
-
-| Pos | Nome   | Time              |
-| --- | ------ | ----------------- |
-| 4.  | Carlos | Ximbahaze         |
-| 8.  | Ramon  | Obesidade footbal |
-
-Ex-membros:
-
-| Nome   | Time              |
-| ------ | ----------------- |
-| Janine | Atlanta Pidgeotto |
-| Corina | Co Runners        |
+| Pos | Time                                  |
+| --- | ------------------------------------- |
+| 1.  | GTE Beers                             |
+| 2.  | Toners                                |
+| 3.  | Green Bay Leiters                     |
+| 4.  | Ximbahaze                             |
+| 5.  | Leks Golden Lions                     |
+| 6.  | Endy Legends                          |
+| 7.  | Salvaro Heinekens                     |
+| 8.  | Obesidade Footbal                     |
+| 9.  | Florida Manatees                      |
+| 10. | Badarants                             |
 
 #### Resultados
 

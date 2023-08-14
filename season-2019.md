@@ -13,38 +13,22 @@ Formação:
 - Wide Receiver / Running Back (W/R) - 1
 - Bench (BN) - 4
 
-Ordem do Draft:
+#### Draft 
 
-| Pos | Nome     | Time               |
-| --- | -------- | ------------------ |
-| 1.  | Leonardo | Gobbi Game Winners |
-| 2.  | Henrique | Salvaro            |
-| 3.  | Endy     | Endy Gamers        |
-| 4.  | Bruno    | Billy Boys         |
-| 5.  | Daniel   | Green Bay Leiters  |
-| 6.  | Arthur   | Leks               |
-| 7.  | Vinicius | Vjusto             |
-| 8.  | Luana    | Macarena           |
-| 9.  | Thalles  | FLN koalas         |
-| 10. | Antonio  | Toners             |
-| 11. | Daniel   | Floripa Hikers     |
-| 12. | Igor     | Floripa Manatees   |
-
-Novos membros:
-
-| Pos | Nome    | Time              |
-| --- | ------- | ----------------- |
-| 13. | Thais   | Philadelphia Hot  |
-| 14. | Janine  | Atlanta Pidgeotto |
-| 15. | Augusto | Gutaro            |
-| 16. | Lucas   | Adventurers       |
-
-Ex-membros:
-
-| Nome    | Time            |
-| ------- | --------------- |
-| Rodrigo | Mamas and Papas |
-| Pedro   | Los Caneludos   |
+| Pos | Time               |
+| --- | ------------------ |
+| 1.  | Gobbi Game Winners |
+| 2.  | Salvaro            |
+| 3.  | Endy Gamers        |
+| 4.  | Billy Boys         |
+| 5.  | Green Bay Leiters  |
+| 6.  | Leks               |
+| 7.  | Vjusto             |
+| 8.  | Macarena           |
+| 9.  | FLN koalas         |
+| 10. | Toners             |
+| 11. | Floripa Hikers     |
+| 12. | Floripa Manatees   |
 
 #### Resultados
 

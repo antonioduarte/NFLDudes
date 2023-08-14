@@ -13,20 +13,20 @@ Formação:
 - Wide Receiver / Running Back (W/R) - 1
 - Bench (BN) - 6
 
-Membros:
+#### Draft 
 
-| Nome     | Time              |
-| -------- | ----------------- |
-| Antonio  | Toners            |
-| Luana    | Macarena          |
-| Rodrigo  | Mamas and Papas   |
-| Vinicius | Vjusto            |
-| Daniel   | Green Bay Leiters |
-| Henrique | Salvaro           |
-| Pedro    | Los Caneludos     |
-| Arthur   | Leks              |
-| Thalles  | FLN koalas        |
-| Bruno    | Billy Boys        |
+| Pos  | Time              |
+| ---- | ----------------- |
+| 1.   | FLN Koalas        |
+| 2.   | Mamas and Papas   |
+| 3.   | Macarena          |
+| 4.   | Green Bay Leiters |
+| 5.   | Salvaro           |
+| 6.   | Vjusto            |
+| 7.   | Los Caneludos     |
+| 8.   | Leks              |
+| 9.   | Toners            |
+| 10.  | Billy Boys        |
 
 #### Resultados
 

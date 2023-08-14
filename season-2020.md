@@ -14,49 +14,37 @@ Formação:
 - Bench (BN) - 4
 - Reserve (RES) - 3
 
-Ordem do Draft:
+#### Draft 
 
 **Gold**:
 
-| Pos | Nome     | Time               |
-| --- | -------- | ------------------ |
-| 1.  | Igor     | Floripa Manatees   |
-| 2.  | Janine   | Atlanta Pidgeotto  |
-| 3.  | Antonio  | Toners             |
-| 4.  | Daniel   | Floripa Hikers     |
-| 5.  | Bruno    | Billy Boys         |
-| 6.  | Thalles  | FLN koalas         |
-| 7.  | Arthur   | Leks               |
-| 8.  | Vinicius | Vjusto             |
-| 9.  | Daniel   | Green Bay Leiters  |
-| 10. | Leonardo | Gobbi Game Winners |
+| Pos | Time               |
+| --- | ------------------ |
+| 1.  | Floripa Manatees   |
+| 2.  | Atlanta Pidgeotto  |
+| 3.  | Toners             |
+| 4.  | Floripa Hikers     |
+| 5.  | Billy Boys         |
+| 6.  | FLN koalas         |
+| 7.  | Leks               |
+| 8.  | Vjusto             |
+| 9.  | Green Bay Leiters  |
+| 10. | Gobbi Game Winners |
 
 **Silver**:
 
-| Pos | Nome     | Time              |
-| --- | -------- | ----------------- |
-| 1.  | Luana    | Macarena          |
-| 2.  | Henrique | Salvaro Heinekens |
-| 3.  | Endy     | Endy Legends      |
-| 4.  | Augusto  | Gutaro            |
-
-Novos membros:
-
-| Pos | Nome    | Time            |
-| --- | ------- | --------------- |
-| 5.  | Bruno   | Totti Islanders |
-| 6.  | Arthur  | Badarants       |
-| 7.  | Augusto | Joinville Alfas |
-| 8.  | Gustavo | Team 10         |
-| 9.  | Marco   | Mlenzi          |
-| 10. | Corina  | Co Runners      |
-
-Ex-membros:
-
-| Nome  | Time             |
-| ----- | ---------------- |
-| Thais | Philadelphia Hot |
-| Lucas | Adventurers      |
+| Pos | Time              |
+| --- | ----------------- |
+| 1.  | Macarena          |
+| 2.  | Salvaro Heinekens |
+| 3.  | Endy Legends      |
+| 4.  | Gutaro            |
+| 5.  | Totti Islanders   |
+| 6.  | Badarants         |
+| 7.  | Joinville Alfas   |
+| 8.  | Team 10           |
+| 9.  | Mlenzi            |
+| 10. | Co Runners        |
 
 #### Resultados
 
